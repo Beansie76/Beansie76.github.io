@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Movies on </title>
-        <link>https://Beansie76.github.io/categories/example-category/</link>
+        <link>https://beansie76.github.io/categories/example-category/</link>
         <description>Recent content in Movies on </description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://Beansie76.github.io/categories/example-category/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://beansie76.github.io/categories/example-category/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
